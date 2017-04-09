@@ -1,4 +1,5 @@
 import random
+#https://docs.python.org/3/library/random.html
 
 #Using the random module and the range method, 
 #generate a list of 20 random numbers between 0 and 49.
